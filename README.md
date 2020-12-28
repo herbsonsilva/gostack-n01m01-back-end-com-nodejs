@@ -63,7 +63,7 @@ Aqui foi visto os principais conceitos do Node.js e como aplicá-los na constru�
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../master/LICENSE) para mais detalhes.
 
 ---
 
