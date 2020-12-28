@@ -67,4 +67,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../master/LICENS
 
 ---
 
-Feito com 💗 by [Herbson Silva](https://www.linkedin.com/in/herbsonsilva/) :wave:
+Feito com ♥ by [Herbson Silva](https://www.linkedin.com/in/herbsonsilva/) :wave::wave::wave:
