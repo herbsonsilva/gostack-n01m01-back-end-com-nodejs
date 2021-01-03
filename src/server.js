@@ -1,11 +1,13 @@
 // 1st step, importar o modulo 'express'
 const express = require('express');
 
+const cors = require('cors');
 const { v4: uuidv4, validate } = require('uuid');
 
 // 2st step, instanciar o 'express'
 const app = express();
 
+app.use(cors());
 app.use(express.json());
 
 const show_log = true;
